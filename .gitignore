@@ -1,0 +1,12 @@
+venv/
+media/
+static/
+__pycache__/
+env
+.env
+*.secret_key
+.idea/
+.vscode/
+.history/
+doc/
+settings_local.py
